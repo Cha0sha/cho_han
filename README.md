@@ -1,2 +1,1 @@
-# cho_han
-Hey there, here i'll post beginner programs i made in python
+Hey there, here you'll can find some of my beginner programs that I made in python.
